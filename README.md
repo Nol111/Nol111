@@ -9,6 +9,6 @@
   </a>
 </div>
   <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGp6MmVxZGwzZW0ybmVhaGpudjdxenZjeHR4aWw3MjF0azRydTZtNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="600" height="400"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2k4M2h1ZTdtZmQ0NW1uZ2F3MjAxbW9xaHh6Z2Vkamp3M2dyNW9rcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ij1WvlilscRFoIRn7u/giphy.gif" width="600" height="400"/>
 </div>
 </div>
