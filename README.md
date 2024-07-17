@@ -8,7 +8,4 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square"/>
   </a>
 </div>
-  <div align="center">
-  <img src="https://giphy.com/clips/love-valentines-day-3rwKC8cFKlMI4UMaEi" width="600" height="400"/>
-</div>
 </div>
