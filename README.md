@@ -8,4 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=flat-square"/>
   </a>
 </div>
+  <div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJtaHNsOG5ubDFjYzJjb3A2ZWdkMTl0dWVjZ3VwN2k3cWhhaXBtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.gif" width="600" height="300"/>
+</div>
 </div>
